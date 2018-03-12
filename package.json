@@ -1,0 +1,13 @@
+{
+ "name": "messenger",
+ "version": "1.0.0",
+ "description": "messenger",
+ "author": "cesarabelfigueroa@gmail.com",
+ "private": true,
+ "scripts": {
+  "postinstall": "npm install express"
+ },
+ "dependencies": {
+  "express": "^4.16.3"
+ }
+}
